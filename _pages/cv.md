@@ -11,50 +11,26 @@ redirect_from:
 
 Also available as a [PDF](/files/CV.pdf).
 
-<div align="center"> Nathan C. Frey, PhD </div>
-<div align="center"> n.frey@seas.upenn.edu | (636) 634-7386 | https://ncfrey.github.io </div>
+<div align="center"> Vinayak, PhD Candidate </div>
+<div align="center"> vinayakv@seas.upenn.edu | <add contact> | https://vinayakv161.github.io </div>
 
 Education
 =========
-* Ph.D. Materials Science & Engineering, University of Pennsylvania, 2016 - 2021
-* M.A. Physics, Boston University, 2014 - 2016
-* B.Sc. Physics and Mathematics, *Summa Cum Laude* & Honors in Physics, University of Missouri, Columbia, 2010 - 2014 
+* B.Sc. Physics, *First Class with Distinction* in Physics, Indian Institute of Science, India, 2016 - 2020 
 
 Work experience
 ===============
-* Massachusetts Institute of Technology, Cambridge, MA  
-Postdoctoral Associate, 2021 - Present 
-  * Postdoc with the Lincoln Laboratory Supercomputing and AI groups. 
+* ICTS  
+Research Assistant, 2020 - Present 
+  * Did work
   
-* University of Pennsylvania, Philadelphia, PA  
-National Defense Science & Engineering Graduate Fellow, 2016 - 2021
-  * Applied multiscale modeling techniques including density functional theory, molecular dynamics, and finite element analysis to computational design of two-dimensional quantum materials and transition-metal oxide battery materials.
-  * Developed framework using positive and unlabeled machine learning and high-throughput first-principles calculations to predict synthesizability of novel bulk and two-dimensional materials.
-
-* AtomicAI, Philadelphia, PA  
-Co-founder, 2020 - Present  
-  * Building data science solutions for bio- and nano-tech companies.  
-  * Providing data analytics and AI strategy consulting.  
-
-* Lawrence Berkeley National Laboratory, Berkeley, CA  
-Affiliate Scientist, 2019 - 2020  
-  * Contributed to the Materials Project by building an automated graph-based and machine learning workflow for predicting properties of magnetic and topological materials as a visitor in the Persson group.
   
 Skills
 ======
-* Python, Bash, High performance computing, Git, Unix, AWS (EC2, S3, Fargate, CDK, SageMaker), SQL, MongoDB, Mathematica, LaTeX, Machine learning, Keras, TensorFlow, Inkscape, Blender, Conversational Japanese.
 
 Publications
 ======
-* [Google Scholar](https://scholar.google.com/citations?user=IMUja60AAAAJ)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=RuEjeXkAAAAJ&view_op=list_works&sortby=pubdate)
     
-Service and leadership
+Volunteering
 ======
-* National Science Foundation Research Mentor, 2016 - Present  
-Boston, MA and Philadelphia, PA  
-  * Mentored high school teachers and undergraduates from underrepresented groups during summer research experiences.
-
-* Project Manager, 2016 - 2018  
-Weiss Tech House Innovation Fund, University of Pennsylvania, Philadelphia, PA  
-  * Sourced, assessed, and advised early-stage student-run startups through weekly coffee chats with founders.
-  * Funded select startups after evaluating pitches and round-table discussions.
