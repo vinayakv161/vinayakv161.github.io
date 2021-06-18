@@ -16,7 +16,7 @@ Also available as a [PDF].
 
 Education
 =========
-* B.Sc. Physics, *First Class with Distinction* in Physics, Indian Institute of Science, India, 2016 - 2020 
+* B.S.(Research), *First Class with Distinction* in Physics, Indian Institute of Science, 2016 - 2020 
 
 Work experience
 ===============
