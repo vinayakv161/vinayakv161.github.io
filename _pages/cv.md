@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Also available as a [PDF](/files/CV.pdf).
+Also available as a [PDF].
 
 <div align="center"> Vinayak, PhD Candidate </div>
-<div align="center"> vinayakv@seas.upenn.edu | <add contact> | https://vinayakv161.github.io </div>
+<div align="center"> vinayakv@seas.upenn.edu | +91-8400-8949-63 | https://vinayakv161.github.io </div>
 
 Education
 =========
