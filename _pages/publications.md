@@ -16,3 +16,7 @@ You can find a list of my publications on my [Google Scholar profile](https://sc
 2. Y. Gupta, K. De, K. Shende, **Vinayak**, K. Gupta, Some new results from the study of pulsar microstructure with the GMRT; _37th Meeting of Astronomical Society of India (2019)._
 
 &dagger; Denotes equal contribution.
+
+==========
+
+In the past I have tried working on various topics ranging from Hyperbolic Metamaterials and Astronomy to DNA nanoelectronics. There exists an [older web page](https://sites.google.com/view/vinayak161/) from my undergrad days, which consists of many of my failed attempts at research.
