@@ -12,7 +12,7 @@ redirect_from:
 Also available as a [PDF].
 
 <div align="center"> Vinayak, PhD Candidate </div>
-<div align="center"> vinayakv@seas.upenn.edu | +91-8400-8949-63 | https://vinayakv161.github.io </div>
+<div align="center"> vinayakv@seas.upenn.edu | +1-267-918-6247 | https://vinayakv161.github.io </div>
 
 Education
 =========
