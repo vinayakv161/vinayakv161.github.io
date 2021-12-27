@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Also available as a [PDF].
-
 <div align="center"> Vinayak, PhD Candidate </div>
 <div align="center"> vinayakv@seas.upenn.edu | +1-267-918-6247 </div>
 
