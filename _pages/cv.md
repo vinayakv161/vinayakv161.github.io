@@ -35,13 +35,6 @@ Work experience
   University of Manchester (2019) and National Centre Radio Astrophysics (2018)
   * Worked on the SKA pipeline to build a streaming algorithm for sifting (UoM).
   * Used novel data processing techniques to study pulsar dynamics (NCRA). 
-  
-  
-Skills
-======
-
-
-
 
 Publications
 ======
