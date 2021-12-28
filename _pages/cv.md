@@ -21,7 +21,7 @@ Education
 
 Work experience
 ===============
-* Graduate Research Fellow
+* Graduate Research Fellow //
   Univeristy of Pennsylvania (2021-Present)
   * Working on the statics and dynamics of 3D chromatin organisation. 
 * Research Assistant
