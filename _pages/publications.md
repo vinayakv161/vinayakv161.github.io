@@ -15,5 +15,3 @@ You can find a list of my publications on my [Google Scholar profile](https://sc
 &dagger; Denotes equal contribution.
 
 ==========
-
-In the past I have tried working on various topics ranging from Hyperbolic Metamaterials and Astronomy to DNA nanoelectronics. There exists an [older web page](https://sites.google.com/view/vinayak161/) from my undergrad days, which consists of many of my failed attempts at research.
