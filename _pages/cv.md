@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div align="center"> Vinayak, PhD Candidate </div>
-<div align="center"> vinayakv[at]seas[dot]upenn[dot]edu | +1-267-918-6247 </div>
+<div align="center"> vinayakv[at]seas.upenn.edu | +1-267-918-6247 </div>
 
 Education
 =========
