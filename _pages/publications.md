@@ -17,7 +17,7 @@ Conferences:
 1. **Vinayak V**, Basir R, Sant'Anna L, Shenoy VB, Polymer model predicts history dependent epigenetic and lamin associated domains. _Annual Meeting of the Biophysical Society (2023)._
 2. Gupta Y, De K, Shende K, **Vinayak V**, Gupta K, Some new results from the study of pulsar microstructure with the GMRT; _37th Meeting of Astronomical Society of India (2019)._
 
-&dagger;_ equal contribution_
+&dagger;_equal contribution_
 
 ==========
 
