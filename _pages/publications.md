@@ -10,7 +10,7 @@ author_profile: true
 You can find a list of my publications on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=RuEjeXkAAAAJ&view_op=list_works&sortby=pubdate).
 
 Journals: 
-1. Aggarwal A&dagger;, **Vinayak V**&dagger;, Bag S, Bhattacharyya c, Waghmare UV, Maiti PK, Predicting the DNA Conductance Using a Deep Feedforward Neural Network Model; _Journal of Chemical Information and Modeling, ACS (2020)._
+1. Aggarwal A&dagger;, **Vinayak V**&dagger;, Bag S, Bhattacharyya c, Waghmare UV, Maiti PK, Predicting the DNA Conductance Using a Deep Feedforward Neural Network Model; _Journal of Chemical Information and Modeling, ACS (2020)._ [doi.org/10.1021/acs.jcim.0c01072](https://doi.org/10.1021/acs.jcim.0c01072)
 &dagger; Denotes equal contribution.
 
 Conferences:
