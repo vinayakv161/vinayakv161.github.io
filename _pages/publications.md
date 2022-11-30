@@ -17,4 +17,5 @@ Conferences:
 2. Gupta Y, De K, Shende K, **Vinayak V**, Gupta K, Some new results from the study of pulsar microstructure with the GMRT; _37th Meeting of Astronomical Society of India (2019)._
 
 ==========
+
 _&dagger equal contribution_
