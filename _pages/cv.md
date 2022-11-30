@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /Resume/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 <div align="center"> Vinayak, PhD Candidate </div>
