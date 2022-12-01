@@ -12,19 +12,20 @@ redirect_from:
 
 Education
 =========
-* PhD candidate in Materials Science and Engineering, 
+* PhD candidate in Materials Science and Engineering 
   * University of Pennsylvania, 2021 - Present
-* B.S.(Research), *First Class with Distinction* in Physics, 
+* B.S.(Research), *First Class with Distinction* in Physics 
   * Indian Institute of Science, 2016 - 2020 
 
 Work experience
 ===============
 * Graduate Research Fellow  
   Univeristy of Pennsylvania (2021-Present)
-  * Working on the statics and dynamics of 3D chromatin organisation. 
+  * Project: Using MD to predict the 3D chromatin configuration
+        * Working on a polymer model to predict the change in 3D conformation of nuclear chromatin in response to external stimuli. The model also predicts changes in the epigenetic distribution and therefore the genetic regulation of the simulated region.  
 * Research Assistant  
   International Centre for Theoretical Sciences, Bangalore (2020-21)  
-  * Worked on using a data-centric approach to study the Indian Monsoon
+  * Worked on using a data-centric approach to study the Indian Monsoon. Mainly considere
 * Undergraduate thesis  
   Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore (2019-2020)
   * Worked on a Materials informatics project involving modeling of materials using Graph Neural Networks.
