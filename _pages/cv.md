@@ -25,14 +25,21 @@ Work experience
   * _Effect of substrate stiffness on genomic and epigenetic regulation_: Through wet lab experiments, we are trying to figure out how substrate stiffness affects the genetic regulation of non-cancerous and cancerous cells. Which are the prime genes which are up and down regulated to adapt the cell to stiffer and softer conditions, a central question to understand the metastatic cascade.    
 * Research Assistant  
   International Centre for Theoretical Sciences, Bangalore (2020-21)  
-  * Data-driven modeling of the Indian Monsoon: Initially used 
+  * _Data-driven modeling of the Indian Monsoon_: Initially used spectral domain analysis to decipher the effect of sea surface temperature and pressure on the arrival, departure and intensity of the Indian monsoon. Later on moved to a convolutional neural network paradigm to try and figure out the prediction capacities of the sea surface temperatures on the time and intensity of the rainfall. 
 * Undergraduate thesis  
   Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore (2019-2020)
-  * Worked on a Materials informatics project involving modeling of materials using Graph Neural Networks.
-  * Modeled DNA conduction using FFNN to bypass bottleneck DFT calculations.
+  * _Predicting DNA conductance using ML_: Led the ML part of the model which predicted the conductance of a given DNA strand with a given sequence. The model bypassed the bottleneck DFT step and produced a speedup of a hundred fold with over 80% accuracy. This work appeared in JCIM, ACS.
+  * _Exploring the best input atomic features for graph neural networks_: Used different material property predicting graph neural networks to search for the most reliable input atomic representations.  
 * Summer visiting undergraduate researcher  
   University of Manchester (2019) and National Centre Radio Astrophysics (2018)
-  * Worked on the SKA pipeline to build a streaming algorithm for sifting (UoM).
+  * Worked on the Square Kilometer Array pipeline to build a streaming algorithm for sifting (UoM).
   * Used novel data processing techniques to study pulsar dynamics (NCRA). 
-* Research student
-  National Centre for Radio Astrophysics(NCRA), Pune and Giant Metrewave Radio Telescope(GMRT), Khodad (2018-19)  
+
+Skills
+===============
+Python, Bash, R, C, C++, High performance computing, Git, JAX, PyTorch, Tensorflow, LaTeX, MATLAB, Inkscape, Biorender
+
+Service
+===============
+* Advising
+  * Lucas Sant'Anna (Summer student CEMB REU, 2022)
