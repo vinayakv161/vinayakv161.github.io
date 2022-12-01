@@ -37,7 +37,8 @@ Work experience
 
 Skills
 ===============
-Python, Bash, R, C, C++, High performance computing, Git, JAX, PyTorch, Tensorflow, LaTeX, MATLAB, Inkscape, Biorender
+* General: Data analysis, Machine learning, Bioinformatics, Molecular dynamics modelling, Scientific computing
+* Programming: Python, Bash, R, C, C++, High performance computing, Git, JAX, PyTorch, Tensorflow, LaTeX, MATLAB, Inkscape, Biorender
 
 Service
 ===============
