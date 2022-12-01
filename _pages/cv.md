@@ -44,4 +44,4 @@ Skills
 Service
 ===============
 * Advising
-  * Lucas Sant'Anna (Summer student CEMB REU, 2022)
+  * Lucas Sant'Anna (Summer student CEMB REU, 2022) 
