@@ -41,7 +41,16 @@ Skills
 * Programming: Python, Bash, R, C, C++, High performance computing, Git, JAX, PyTorch, Tensorflow, LaTeX, MATLAB, Inkscape, Biorender
 * Wet lab: Cell culture, PGA gel symthesis, Collagen gel synthesis, RNAseq and ATACseq prep
 
-Service
+Service and Awards
 ===============
 * Advising
-  * Lucas Sant'Anna (Summer student CEMB REU, 2022) 
+  * Lucas Sant'Anna (Summer student CEMB REU, 2022)
+* Programs
+  * LRSM/CEMB mentor training for researchers (2022)
+  * Entrepreneurship for Biomedicine Program Training Program (E4B NIH/WashU), Spring 2023
+* Awards
+  * Biophysical annual meet travel award 2023
+  * UPenn PhD student fellowship 2021-22
+  * Long Term Visiting student fellow (ICTS) 2020-21
+  * Kishore Vaigyanik Protsahan Yojana fellow 2016-20
+
