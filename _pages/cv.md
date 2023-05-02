@@ -47,7 +47,6 @@ Service and Awards
   * Lucas Sant'Anna (Summer student CEMB REU, 2022)
 * Programs
   * LRSM/CEMB mentor training for researchers (2022)
-  * Entrepreneurship for Biomedicine Program Training Program (E4B NIH/WashU), Spring 2023
 * Awards
   * Biophysical annual meet travel award 2023
   * UPenn PhD student fellowship 2021-22
