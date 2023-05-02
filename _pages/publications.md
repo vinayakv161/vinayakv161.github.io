@@ -12,6 +12,9 @@ You can find a list of my publications on my [Google Scholar profile](https://sc
 Journals: 
 1. Aggarwal A&dagger;, **Vinayak V**&dagger;, Bag S, Bhattacharyya c, Waghmare UV, Maiti PK, Predicting the DNA Conductance Using a Deep Feedforward Neural Network Model; _Journal of Chemical Information and Modeling, ACS (2020)._ [doi.org/10.1021/acs.jcim.0c01072](https://doi.org/10.1021/acs.jcim.0c01072)
 
+Preprints:
+1. Aayush Kant, Zixian Guo, Vinayak Vinayak, Maria Victoria Neguembor, Wing Shun Li, Vasundhara Agrawal, Emily Pujadas, Luay Almassalha, Vadim Backman, Melike Lakadamyali, Maria Pia Cosma, Vivek B. Shenoy, Active Transcription and Epigenetic Reactions Synergistically Regulate Meso-Scale Genomic Organization; [https://doi.org/10.1101/2023.04.21.537822](https://doi.org/10.1101/2023.04.21.537822)
+
 Conferences:
 1. **Vinayak V**, Basir R, Sant'Anna L, Shenoy VB, Polymer model predicts history dependent epigenetic and lamin associated domains. _APS March meeting, Las Vegas (2023)._
 2. **Vinayak V**, Basir R, Sant'Anna L, Shenoy VB, Polymer model predicts history dependent epigenetic and lamin associated domains. _Annual Meeting of the Biophysical Society, San Diego (2023)._
