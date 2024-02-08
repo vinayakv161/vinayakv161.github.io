@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 Welcome to my blog post!
+
+Blog 1: Why am I doing this? 
