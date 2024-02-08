@@ -9,4 +9,4 @@ redirect_from:
 
 These notes represent a few (ill-)informed but cited perspectives/thoughts I have on the field of chromatin organization. Hopefully this branches into other fields as I think more on them. Hopefully will including development, mechanobiology, life as a PhD and related topics in the future.
 
-1: [Why am I doing this?](/_pages/blog1.md) [Feb 8,2024]
+1: [Why am I doing this?](/_pages/blog1.md) <div style="text-align: right"> Feb 8, 2024 </div>
