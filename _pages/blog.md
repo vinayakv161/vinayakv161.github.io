@@ -9,4 +9,4 @@ redirect_from:
 
 Welcome to my blog post!
 
-Blog 1: [Why am I doing this?](/_pages/blog1)
+Blog 1: [Why am I doing this?](/_pages/blog1.md)
