@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Motivation"
+title: ""
 permalink: /blog1/
 author_profile: true
 redirect_from:
