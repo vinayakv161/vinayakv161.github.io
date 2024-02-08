@@ -8,7 +8,7 @@ redirect_from:
   - /blog1.md
 ---
 
-Motivation
+Motivation: Why blog?
 =========
 
 In my time as a grad student, I have realized that once you start to have some perspective of your field, the number of random (and probably useless) ideas one has start increasing. But in this stack of random thoughts, there may lie some important ones as well. After all, "Eureka" was nothing but a rather lazy bath. I am not saying that I may have one of the world changing ones but to quote a great man, "'You miss 100% of the shots you don't take. -Wayne Gretzky'-Michael Scott"-me. 
