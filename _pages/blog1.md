@@ -8,7 +8,10 @@ redirect_from:
   - /blog1.md
 ---
 
-In my few years as a grad student, I have realized that once you start to have some perspective of your field, the number of random (and probably useless) ideas one has start increasing. But in this stack of random thoughts, there may lie some important ones as well. After all, "Eureka" was nothing but a rather lazy bath. I am not saying that I may have one of the world changing ones but to quote a great man, "'You miss 100% of the shots you don't take. -Wayne Gretzky'-Michael Scott"-me. 
+Motivation
+=========
+
+In my time as a grad student, I have realized that once you start to have some perspective of your field, the number of random (and probably useless) ideas one has start increasing. But in this stack of random thoughts, there may lie some important ones as well. After all, "Eureka" was nothing but a rather lazy bath. I am not saying that I may have one of the world changing ones but to quote a great man, "'You miss 100% of the shots you don't take. -Wayne Gretzky'-Michael Scott"-me. 
 On a lighter note though, as I wish to make this a formal blog, so my motivations stand as follows:
 1. The most basic motivation: My writing is bad and I need practice. I am writing my first paper in a new field, and even after months of trying to make things clear, my own writing stops making sense to me.
 2. Scientific publishing is slow and dense for the general audience. I am not saying it is unnecessary, there is good reason for it to be dense otherwise the rigorousness is lost. Jargons are encapsulations of years of progress and associated understanding. Taking epigenetics as an example, one can always say "all that drives cell fate without changing the DNA itself" but to the scientific society, there is a much richer context to it, which the general audience does not need to know. But that does not mean that they should have to go through every paper to understand the context. Hence, through this blog, I am to try to explain my field in a more colloquial language without trying to lose its rigor.
