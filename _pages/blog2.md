@@ -8,6 +8,6 @@ redirect_from:
   - /blog2.md
 ---
 
-Why care about chromatin organization?
+Epigenetics: All is not in the DNA.
 =========
 
