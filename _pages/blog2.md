@@ -8,6 +8,6 @@ redirect_from:
   - /blog2.md
 ---
 
-Epigenetics: All is not in the DNA.
+Your DNA is a library, not a book.
 =========
 
