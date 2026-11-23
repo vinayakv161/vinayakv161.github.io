@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vinayak"
 title_separator          : "-"
 name                     : &name "Vinayak"
-description              : &description "PhD candidate at Penn"
+description              : &description "Postdoctoral researcher at Penn studying chromatin memory"
 url                      : https://vinayakv161.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vinayakv161/vinayakv161.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vinayak"
   avatar           : "profile_image.jpg"
-  bio              : "PhD candidate at University of Pennsylvania"
+  bio              : "Postdoctoral Researcher, University of Pennsylvania"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : 
