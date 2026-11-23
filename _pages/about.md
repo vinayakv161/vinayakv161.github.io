@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a biophysicist and postdoctoral researcher at the [University of Pennsylvania](https://www.upenn.edu), working with [Prof. Vivek Shenoy](https://shenoy.seas.upenn.edu) and the [NSF Center for Engineering Mechanobiology](https://cemb.upenn.edu). I completed my PhD at Penn in July 2026. Before that I was a long-term visiting student at [ICTS, Bangalore](https://www.icts.res.in), and I earned my B.S. in Physics at [IISc, Bangalore](https://iisc.ac.in) with a senior thesis at [JNCASR](https://www.jncasr.ac.in/home).
+I am a biophysicist working at the intersection of **mechanobiology, chromatin physics and machine learning**. I am a postdoctoral researcher at the [University of Pennsylvania](https://www.upenn.edu) in the group of [Prof. Vivek Shenoy](https://shenoy.seas.upenn.edu), and a member of the [NSF Center for Engineering Mechanobiology](https://cemb.upenn.edu).
 
-I study how chromatin encodes, and loses, memory of prior states. When a cell is perturbed, chemically or mechanically, some of the resulting chromatin states persist after the stimulus is removed while others revert. I want to understand why. My work shows that the answer is set by local domain architecture: regions near the boundaries of nanoscale heterochromatin domains account for most of both reversion and retention. Impaired rebuilding of H3K9me3-marked heterochromatin gives rise to an asymmetric, history-dependent memory that progresses toward senescence under chronic stimulation.
+Cells constantly sense their physical surroundings, such as how stiff a tissue is or how it is stretched and squeezed, and turn those cues into decisions about which genes to switch on or off. Much of this happens inside the nucleus, where the way DNA is physically packaged controls which genes are accessible. I want to understand how mechanical and chemical signals reshape the 3D organization of the genome, and why some of these changes become lasting cellular memories that influence cell fate, ageing and diseases such as fibrosis and cancer.
 
-To get at these questions I combine:
+To answer these questions I bring theory and experiment together. I build physics-based models of the genome and machine-learning tools, and test their predictions directly in cells using super-resolution imaging and genomic sequencing.
 
-* **Modeling:** sequencing-informed polymer models in which domain organization emerges from the competition between diffusion of epigenetic marks and writer/eraser reactions.
-* **Physics-informed machine learning:** methods such as [Mollifier Layers](https://arxiv.org/abs/2505.11682) that infer spatially varying reaction rates directly from super-resolution images, and multimodal models that predict 3D structure, accessibility and transcription together.
-* **Experiments:** pharmacological (HDAC and EZH2 inhibition) and mechanical perturbations with washout, read out by STORM/OligoSTORM, Oligopaint/FISH, confocal imaging, Hi-C, ATAC-seq, ChIP-seq, and bulk and single-cell RNA-seq.
+**Research interests**
+* Mechanobiology of the cell nucleus
+* Chromatin organization and epigenetic memory
+* Physics-informed and generative machine learning for biology
+* Integrating imaging and genomics with predictive models
 
-I'm also interested in computational modeling of other biological and condensed-matter systems, data-driven study of the Indian monsoon, and applications of AI methods in these fields. Feel free to reach out to discuss any of my work or if I can be of any help!
+I completed my PhD at Penn in 2026. Before that I was a visiting student at [ICTS, Bangalore](https://www.icts.res.in), working on data-driven prediction of the Indian monsoon, and I earned my B.S. in Physics at [IISc, Bangalore](https://iisc.ac.in) with a thesis at [JNCASR](https://www.jncasr.ac.in/home). Feel free to reach out to discuss my work or possible collaborations!
